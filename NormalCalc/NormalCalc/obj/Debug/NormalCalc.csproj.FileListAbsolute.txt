@@ -1,0 +1,15 @@
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc.csprojAssemblyReference.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\MainWindow.g.cs
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\App.g.cs
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc_MarkupCompile.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc_MarkupCompile.lref
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\bin\Debug\NormalCalc.exe.config
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\bin\Debug\NormalCalc.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\bin\Debug\NormalCalc.pdb
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\MainWindow.baml
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc.g.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc.Properties.Resources.resources
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc.csproj.GenerateResource.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc.exe
+C:\Users\elev\Documents\Visual Studio 2017\Projects\NormalCalc\NormalCalc\obj\Debug\NormalCalc.pdb
